@@ -17,6 +17,7 @@ The project is partially complete, with a functional CNN model and basic API end
 - Documentation for dataset preparation and model evaluation metrics.
 
 ### Project Structure
+```bash
 Hopkins-Project/
 ├── data/                       # Input data (e.g., spectrograms, audio files)
 ├── models/                     # Trained CNN model(s) and checkpoints
@@ -31,7 +32,7 @@ Hopkins-Project/
 ├── requirements.txt           # Python dependencies
 ├── .gitignore                # Git ignore file
 └── README.md                 # This file
-
+```
 
 *Note*: The exact structure may vary. Update this section if additional files or folders (e.g., `docker-compose.yml`, `environment.yml`) are included.
 
