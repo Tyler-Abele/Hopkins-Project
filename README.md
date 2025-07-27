@@ -151,6 +151,9 @@ To continue development, team members can focus on the following tasks:
 - **Documentation**:
   - Document dataset requirements (e.g., format, size) in a separate `DATASET.md` file.
   - Add API documentation using Swagger or similar tools.
+ 
+### Testing:
+For testing the app you can use NPM and NPX in the terminal. Most emulators will work, such as the Android Emulator. 
 
 ### Known Issues
 - The model may overfit if the dataset is small; consider adding negative samples or data augmentation.
